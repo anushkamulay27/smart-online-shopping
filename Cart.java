@@ -33,7 +33,7 @@ class CartItem {
 }
 
 //Cart: contains a list of CartItems
-class Cart {
+public class Cart {
     private ArrayList<CartItem> items = new ArrayList<>();
     private Customer owner;
 
