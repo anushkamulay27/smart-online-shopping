@@ -1,5 +1,5 @@
 /**
- *   Smart Online Shopping Management System
+ *   Smart Online Shopping Management System as a group Project
  *   Main.java — Entry Point & CLI Menu
  *   OOP Concepts Demonstrated:
  *     • Classes & Objects      (Product, Customer, Cart, Order)
