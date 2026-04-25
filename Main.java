@@ -6,7 +6,7 @@
  *     • Encapsulation          (private fields, public getters/setters)
  *     • Composition            (Cart contains CartItems; Order holds Cart data)
  *     • Constructors           (all classes)
- *     • ArrayList & Collections
+ *     • ArrayList & Array Collections
  */
 
 import java.util.ArrayList;
