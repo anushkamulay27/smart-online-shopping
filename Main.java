@@ -1,5 +1,5 @@
 /**
- *   Smart Online Shopping Management System as a group Project according to OOP syllabus
+ *   Smart Online Shopping Management System as a group Project according to OOP SPPU exam syllabus 
  *   Main.java — Entry Point & CLI Menu
  *   OOP Concepts Demonstrated:
  *     • Classes & Objects      (Product, Customer, Cart, Order)
