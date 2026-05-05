@@ -1,12 +1,12 @@
 /**
- *   Smart Online Shopping Management System as a group Project
+ *   Smart Online Shopping Management System as a group Project according to OOP syllabus
  *   Main.java — Entry Point & CLI Menu
  *   OOP Concepts Demonstrated:
  *     • Classes & Objects      (Product, Customer, Cart, Order)
  *     • Encapsulation          (private fields, public getters/setters)
  *     • Composition            (Cart contains CartItems; Order holds Cart data)
  *     • Constructors           (all classes)
- *     • ArrayList & Array Collections
+ *     • ArrayList & Array Collections 
  */
 
 import java.util.ArrayList;
