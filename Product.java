@@ -1,5 +1,5 @@
 /**
- * Smart Online Shopping Management System
+ * Smart Online Shopping Management System for oop group project
  * Product.java — Represents a product available in the store
  * OOP Concepts: Encapsulation, Constructors, toString, syllabus related concepts
  */
