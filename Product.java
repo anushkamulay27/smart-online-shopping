@@ -1,6 +1,6 @@
 /**
  * Smart Online Shopping Management System
- * Product.java — Represents a product in the store
+ * Product.java — Represents a product available in the store
  * OOP Concepts: Encapsulation, Constructors, toString, syllabus related concepts
  */
 public class Product {
